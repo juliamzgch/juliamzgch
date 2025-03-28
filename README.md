@@ -4,7 +4,7 @@
         <h3>heeey!! i'm julia. <3</h3>
         <p>passionate about books and <b>code</b> since childhood.</p>
         <div>
-            <a href="https://dev.to/baskerbyte">
+            <a href="https://dev.to/juliamzgch">
                 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev Badge"/>
             </a>
             <a href="https://substack.com/@juliamzgch">
