@@ -7,8 +7,8 @@
             <a href="https://dev.to/baskerbyte">
                 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev Badge"/>
             </a>
-            <a href="https://www.tabnews.com.br/baskerbyte">
-                <img src="https://img.shields.io/badge/TabNews-FFFFFF?style=for-the-badge&logoColor=000000" alt="TabNews badge"/>
+            <a href="https://substack.com/@juliamzgch">
+                <img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FFFFFF" alt="Substack Badge"/>
             </a>
         </div>
     </div>
@@ -17,8 +17,8 @@
 <br>
 <div>
     <p>
-         accumulating a total of
-        <b>{{ STARS }} stars ★</b>.
+         accumulating
+        <b> stars ★</b>.
     </p>
 </div>
 <details>
@@ -84,49 +84,5 @@
     <p>
         <i>~ <a href="https://juliamzgch.dev">juliamzgch.dev</a></i>
     </p>
-</div>
-
-<div>
-    <img align="left" src="path_to_your_image.jpg" width="180" alt="Your Image">
-    <div>
-        <h3>Hey! I'm Julia Mizuguchi</h3>
-        <p>Passionate about technology and <b>code</b> since childhood.</p>
-        <div>
-            <a href="https://www.linkedin.com/in/julia-mizuguchi/">
-                <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-            </a>
-            <a href="https://github.com/juliamatias">
-                <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-            </a>
-        </div>
-    </div>
-</div>
-<hr>
-
-<br>
-
-<div>
-    <h4>About Me</h4>
-    <p>
-        I'm Julia Mizuguchi, a student and aspiring developer passionate about creating solutions through code. I love clean design, problem-solving, and learning new technologies.
-    </p>
-    <p>
-        I am currently studying Software Engineering and enjoy working on personal projects. 
-    </p>
-
-    <details>
-        <summary><h3>Skills</h3></summary>
-        <div>
-            <h4>Backend</h4>
-            <a><img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java Badge"/></a>
-            <a><img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black" alt="Python Badge"/></a>
-        </div>
-        <div>
-            <h4>Frontend</h4>
-            <a><img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/></a>
-            <a><img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/></a>
-            <a><img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/></a>
-        </div>
-    </details>
 </div>
 
