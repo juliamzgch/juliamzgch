@@ -41,13 +41,13 @@
         <div>
             <h4>frontend</h4>
             <a>
-                <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=white" alt="React Badge">
+                <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React Badge">
             </a>
             <a>
-                <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=black" alt="Html Badge">
+                <img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=black" alt="Html Badge">
             </a>
             <a>
-                <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=black" alt="Css Badge">
+                <img src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=black" alt="Css Badge">
             </a>
         </div>
     </div>
@@ -59,7 +59,7 @@
                     <img src="https://img.shields.io/badge/SQLite-FFFFFF?style=for-the-badge&logo=sqlite&logoColor=black" alt="SQLite Badge"/>
                 </a>
                 <a>
-                    <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+                    <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=black" alt="PostgreSQL Badge"/>
                 </a>
             </div>
         </div>
