@@ -78,8 +78,8 @@
         i occasionally share insights about tech-related topics through <a href="https://juliamzgch.dev/blog">my blog</a> and my <a href="https://substack.com/@juliamzgch">newsletter</a>.
     </p>
     <p>
-        additionally, I'm currently pursuing studies in psychology, aiming to specialize
-        as a tech lead in the future 🖤.
+        additionally, i'm currently pursuing studies in psychology, aiming to specialize
+        as a tech lead in the future 🤍.
     </p>
     <p>
         <i>~ <a href="https://juliamzgch.dev">juliamzgch.dev</a></i>
