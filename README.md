@@ -5,10 +5,10 @@
         <p>passionate about books and <b>code</b> since childhood.</p>
         <div>
             <a href="https://dev.to/juliamzgch">
-                <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev Badge"/>
+                <img src="https://img.shields.io/badge/dev.to-96783C?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev Badge"/>
             </a>
             <a href="https://substack.com/@juliamzgch">
-                <img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FFFFFF" alt="Substack Badge"/>
+                <img src="https://img.shields.io/badge/Substack-699A96.svg?style=for-the-badge&logo=substack&logoColor=FFFFFF" alt="Substack Badge"/>
             </a>
         </div>
     </div>
@@ -23,7 +23,7 @@
 </div>
 <details>
     <summary>
-        <h3>skills</h3>
+        <h4>skills</h>
     </summary>
     <div>
         <div>
@@ -32,7 +32,7 @@
                 <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java Badge"/>
             </a>
             <a>
-                <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript Badge"/>
+                <img src="https://img.shields.io/badge/JavaScript-96783C?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript Badge"/>
             </a>
             <a>
                 <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black" alt="Python Badge">
@@ -41,7 +41,7 @@
         <div>
             <h4>frontend</h4>
             <a>
-                <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React Badge">
+                <img src="https://img.shields.io/badge/React-699A96?style=for-the-badge&logo=react&logoColor=white" alt="React Badge">
             </a>
             <a>
                 <img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=black" alt="Html Badge">
@@ -59,7 +59,7 @@
                     <img src="https://img.shields.io/badge/SQLite-FFFFFF?style=for-the-badge&logo=sqlite&logoColor=black" alt="SQLite Badge"/>
                 </a>
                 <a>
-                    <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=black" alt="PostgreSQL Badge"/>
+                    <img src="https://img.shields.io/badge/mysql-FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=black" alt="PostgreSQL Badge"/>
                 </a>
             </div>
         </div>
