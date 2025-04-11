@@ -82,7 +82,7 @@
         as a tech lead in the future 🤍.
     </p>
     <p>
-        | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=juliamzgch&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamzgch&layout=compact&theme=vue&hide_border=true" /></a> 
+        | <a href="https://github.com/juliamzgch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=juliamzgch&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="Julia's github stats" /></a> | <a href="https://github.com/juliamzgch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamzgch&layout=compact&theme=gruvbox&hide_border=true" /></a> | 
     </p>
     <p>
         <i>~ <a href="https://juliamzgch.dev">juliamzgch.dev</a></i>
